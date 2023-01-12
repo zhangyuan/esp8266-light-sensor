@@ -1,11 +1,13 @@
 # ESP8266 Light Sensor
 
-## Sensor
+## Hardware
+
+### Light sensor
 
 ![sensor](./docs/sensor.png "sensor")
 
 Note: 
-* Sensitivity adjustor is used to increase the intensity of light.
+* Sensitivity adjustor is used to increase or decrease the intensity of light.
 
 ## Hardware Installation
 
