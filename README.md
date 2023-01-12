@@ -1,5 +1,12 @@
 # ESP8266 Light Sensor
 
+## Sensor
+
+![sensor](./docs/sensor.png "sensor")
+
+Note: 
+* Sensitivity adjustor is used to increase the intensity of light.
+
 ## Hardware Installation
 
 ### ESP-12E
