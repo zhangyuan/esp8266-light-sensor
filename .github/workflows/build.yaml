@@ -29,7 +29,5 @@ jobs:
       run: pip install platformio==6.1.5
     - name: Check PlatformIO
       run: pio system info
-    - name: Setup
-      run: cp src/main.h.example src/main.h
     - name: Run PlatformIO
       run: pio run
